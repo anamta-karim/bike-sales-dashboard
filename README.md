@@ -8,19 +8,19 @@ An interactive Excel dashboard exploring customer demographics and bike purchase
 
 **Overview**
 
-![Bike Sales Dashboard overview](images/dashboard-preview.png)
+<img src="images/dashboard-preview.png" width="700" alt="Bike Sales Dashboard overview">
 
 *All slicers are cleared, showing the full dataset.*
 
 **Filtered view 1**
 
-![Bike Sales Dashboard filtered to Europe](images/dashboard-europe.png)
+<img src="images/dashboard-europe.png" width="700" alt="Bike Sales Dashboard filtered to Europe">
 
 *Region: Europe. Marital Status and Education are unfiltered.*
 
 **Filtered view 2**
 
-![Bike Sales Dashboard filtered to North American single customers with a Bachelor's education](images/dashboard-north-america-single-bachelors.png)
+<img src="images/dashboard-north-america-single-bachelors.png" width="700" alt="Bike Sales Dashboard filtered to North American single customers with a Bachelor's education">
 
 *Region: North America · Marital Status: Single · Education: Bachelors.*
 
@@ -38,7 +38,6 @@ Download [`bike-sales-dashboard.xlsx`](workbook/bike-sales-dashboard.xlsx) and o
 | --- | --- |
 | `bike_buyers` | Original source data (1,026 rows), retained for reference. |
 | `Working Sheet` | Cleaned dataset used for the analysis (1,000 rows). |
-| `Detail1` | Supporting PivotTable detail. |
 | `Pivot Table` | PivotTable summaries. |
 | `Dashboard` | Three charts with slicers for marital status, region, and education. |
 
@@ -61,4 +60,5 @@ Microsoft Excel · data cleaning · duplicate removal · value standardization �
 ## Dataset credit
 
 The Bike Buyers dataset is shared in [Alex The Analyst’s Excel-Tutorial repository](https://github.com/AlexTheAnalyst/Excel-Tutorial). The source repository does not specify a dataset license. Please check the reuse terms before making the workbook public.
+
 
