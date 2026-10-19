@@ -8,19 +8,19 @@ An interactive Excel dashboard exploring customer demographics and bike purchase
 
 **Overview**
 
-<img src="images/dashboard-preview.png" width="700" alt="Bike Sales Dashboard overview">
+<img src="images/dashboard-preview.png" width="500" alt="Bike Sales Dashboard overview">
 
 *All slicers are cleared, showing the full dataset.*
 
 **Filtered view 1**
 
-<img src="images/dashboard-europe.png" width="700" alt="Bike Sales Dashboard filtered to Europe">
+<img src="images/dashboard-europe.png" width="500" alt="Bike Sales Dashboard filtered to Europe">
 
 *Region: Europe. Marital Status and Education are unfiltered.*
 
 **Filtered view 2**
 
-<img src="images/dashboard-north-america-single-bachelors.png" width="700" alt="Bike Sales Dashboard filtered to North American single customers with a Bachelor's education">
+<img src="images/dashboard-north-america-single-bachelors.png" width="500" alt="Bike Sales Dashboard filtered to North American single customers with a Bachelor's education">
 
 *Region: North America · Marital Status: Single · Education: Bachelors.*
 
